@@ -34,14 +34,9 @@ Serve the Application:
 bash
 Copy code
 php artisan serve
+
 Visit the Application:
-
 Open your web browser and navigate to http://127.0.0.1:8000 to access the application.
-Usage:
-Upload Files:
-
-Use the provided file upload interface to select and upload files.
-Manage Files:
 
 Explore the application to view, update, and delete uploaded files.
 Contributors:
@@ -55,4 +50,4 @@ If you encounter any issues or have suggestions for improvement, please open an 
 License:
 This Laravel File Upload System is open-sourced under the MIT license. Feel free to use, modify, and distribute it according to your needs.
 
-Enjoy using the Laravel File Upload System! If you have any questions, feel free to contact [Your Email].
+Enjoy using the Laravel File Upload System! If you have any questions, feel free to contact kap.moral22@gmail.com.
